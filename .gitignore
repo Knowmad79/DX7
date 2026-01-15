@@ -1,2 +1,10 @@
-*.zip
-docboxrx.db
+
+.env
+**/node_modules/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.db
+**/*.zip
+
